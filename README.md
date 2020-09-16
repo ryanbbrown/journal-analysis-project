@@ -7,4 +7,4 @@ I used WordCloud to visualize my most common words for each year, giving me a br
 
 The last thing I did was train a deep learning neural network on my journal text using fast.ai. I had the neural network generate sample journal entries based on various starting words, and it produced some eerily similar entries to how I write.
 
-I wrote an article about the process and findings for this project; you can find it [here].(https://towardsdatascience.com/exploring-4-5-years-of-journal-entries-with-nlp-589de6130c2d)
+I wrote an article about the process and findings for this project; you can find it [here](https://towardsdatascience.com/exploring-4-5-years-of-journal-entries-with-nlp-589de6130c2d).
